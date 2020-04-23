@@ -1,4 +1,4 @@
-# JS Boilerplate Starter
+# Practice DOM, `map`, `filter` and `random`
 
 ## Get Started
 
