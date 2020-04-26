@@ -15,11 +15,6 @@ document.querySelector("form").addEventListener("submit", e => {
   // TODO: 'push' 'name.value' onto 'names'
 });
 
-document.querySelector("#no-long").addEventListener("click", () => {
-  // TODO: FILTER out 'names' longer than 5 characters
-  // HINT: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length
-});
-
 document.querySelector("#uppercase").addEventListener("click", () => {
   // TODO: Make all 'names' ALL CAPS!
   // HINT: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/toUpperCase
