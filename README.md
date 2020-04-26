@@ -1,4 +1,4 @@
-# Practice DOM, `map`, `filter` and `random`
+# Practice DOM, `map` and`random`
 
 ## Get Started
 
