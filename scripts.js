@@ -1,5 +1,3 @@
-import { doc } from "prettier";
-
 const name = document.querySelector("input");
 const names = [];
 
